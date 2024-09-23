@@ -1,4 +1,4 @@
-Hi, I’m Bartek. I'm interested in writing mobile applications for iOS devices. I'm currently learning how to enbetter my development process with the newest solutions provided by SwiftUI framework. I'm planning to join a mobile development company that will allow me to expand my development skills. Currently I'm working on distributing my own mobile application for travelling to the App Store.  
+Hi, I’m Bartek. I'm interested in writing web applications. I'm currently learning how to improve my web development skills. I'm planning to join a web development company that will allow me to expand my experience.
 
 
 <!---
